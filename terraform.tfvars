@@ -1,0 +1,7 @@
+configuration_file_path         = ""
+default_location                = "eastus"
+default_postfix                 = "lz"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "7e8bc52b-0aa9-4518-bf14-149fd225972f"
+subscription_id_identity        = "b7fa757e-96b8-46f8-9d2e-571e92284382"
+subscription_id_management      = "e13f5272-e8d2-47ff-87e7-5f94a3d63a7b"
